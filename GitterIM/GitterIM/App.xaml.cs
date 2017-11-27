@@ -13,7 +13,7 @@ namespace GitterIM
         {
             InitializeComponent();
 
-            MainPage = new GitterIM.MainPage();
+            MainPage = new GitterIM.Pages.MainPage();
         }
 
         protected override void OnStart()

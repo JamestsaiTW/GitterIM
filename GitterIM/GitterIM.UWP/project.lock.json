@@ -26076,12 +26076,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\James Tsai\\source\\repos\\GitterIM\\GitterIM\\GitterIM.UWP\\GitterIM.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\James Tsai\\source\\GitterIM\\GitterIM\\GitterIM.UWP\\GitterIM.UWP.csproj",
       "projectName": "GitterIM.UWP",
-      "projectPath": "C:\\Users\\James Tsai\\source\\repos\\GitterIM\\GitterIM\\GitterIM.UWP\\GitterIM.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\James Tsai\\source\\repos\\GitterIM\\GitterIM\\GitterIM.UWP\\project.json",
+      "projectPath": "C:\\Users\\James Tsai\\source\\GitterIM\\GitterIM\\GitterIM.UWP\\GitterIM.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\James Tsai\\source\\GitterIM\\GitterIM\\GitterIM.UWP\\project.json",
       "packagesPath": "C:\\Users\\James Tsai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\James Tsai\\source\\repos\\GitterIM\\GitterIM\\GitterIM.UWP\\obj\\",
+      "outputPath": "C:\\Users\\James Tsai\\source\\GitterIM\\GitterIM\\GitterIM.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\James Tsai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26094,8 +26094,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\James Tsai\\source\\repos\\GitterIM\\GitterIM\\GitterIM\\GitterIM.csproj": {
-              "projectPath": "C:\\Users\\James Tsai\\source\\repos\\GitterIM\\GitterIM\\GitterIM\\GitterIM.csproj"
+            "C:\\Users\\James Tsai\\source\\GitterIM\\GitterIM\\GitterIM\\GitterIM.csproj": {
+              "projectPath": "C:\\Users\\James Tsai\\source\\GitterIM\\GitterIM\\GitterIM\\GitterIM.csproj"
             }
           }
         }
@@ -26103,10 +26103,7 @@
     },
     "dependencies": {
       "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.2",
-      "Xamarin.Forms": {
-        "target": "Package",
-        "version": "[2.5.0.91635, )"
-      }
+      "Xamarin.Forms": "2.5.0.91635"
     },
     "frameworks": {
       "uap10.0.10586": {}
